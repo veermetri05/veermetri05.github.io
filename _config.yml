@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A place where Veer shares his insights about programming and development.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://www.iamveer.dev"
 
 github:
   username: veermetri05 # change to your github username
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'assets/lib/avatar.jpg'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
